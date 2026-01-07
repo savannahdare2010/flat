@@ -26,7 +26,7 @@ import os                        # interact with operating system
 # VARIABLES
 # =========================
 THRESHOLD = 1.11154
-REPO_PATH = "/home/savannahdare/flatsat"
+REPO_PATH = "/home/savannahdare/flat"
 FOLDER_PATH = "images"
 
 # =========================
